@@ -40,3 +40,8 @@
 ### 🌱 Learning & Growing
 
 > Turning ideas into intelligent solutions.
+ ## 🛠️ Skills & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,git,github,html,css,js,flask" />
+</p>
